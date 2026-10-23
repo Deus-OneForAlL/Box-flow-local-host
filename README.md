@@ -21,15 +21,12 @@ A lightweight, high-performance canvas-based diagramming application inspired by
 ## 🚀 How to Run
 
 ### Option 1: Double-Click the Launcher
-Just double-click **`start-boxflow.bat`** in `f:\AntiGravity\REA` or `start.bat` in `f:\AntiGravity\REA\boxflow`.
+
 
 ### Option 2: Run via Terminal
-```bash
-cd f:\AntiGravity\REA\boxflow
-npm run dev
-```
 
-Then open your browser at **[http://localhost:5173](http://localhost:5173)**.
+
+Then open your browser at **(http://localhost:5173)**.
 
 ---
 
